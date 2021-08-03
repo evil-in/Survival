@@ -1,6 +1,6 @@
 # Survival
 
-### This is a script-based Role Playin Game(RPG) battle script written in python 3.
+### This is a script-based Role Playing Game(RPG) battle script written in python 3.
 
 ## Story: 
 There are three friends in this fictional world where they have to fight three demons in order to *survive* and win the game!
