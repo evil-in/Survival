@@ -6,7 +6,7 @@
 There are three friends in this fictional world where they have to fight three demons in order to *survive* and win the game!
 
 ## Characters: 
-There are 3 characters for you to play for simulatenously- Artemis, Gavin and Zebronics. 
+There are 3 characters for you to play for simultenously- Artemis, Gavin and Zebronics. 
 All three charcters have magic powers and an inventory of weapons to use that are depleted over the course of the game as they are used up. 
 > 
 There are three demons present in this world as well. The demons do not have the power of magic, but they do have extremely high HP, so beware!
